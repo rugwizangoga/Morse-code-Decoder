@@ -27,14 +27,11 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Morse Code Decoder <a name="about-project"></a>
+### 📖 Morse Code Decoder <a name="about-project"></a>
 
-<img src="./diagram.png" alt="database schema diagram">
+**Morse Code Decoder** is a straightforward Ruby program designed to streamline the task of deciphering <a href="https://en.wikipedia.org/wiki/Morse_code">Morse code</a> messages automatically.
 
-**Morse Code Decoder** is a simple program made with Ruby that automates the process of decrypting messages written
-in <a href="https://en.wikipedia.org/wiki/Morse_code">Morse code</a>
-
-## 🛠️ Built With <a name="built-with"></a>
+### 🛠️ Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -55,7 +52,7 @@ in <a href="https://en.wikipedia.org/wiki/Morse_code">Morse code</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 💻 Getting Started <a name="getting-started"></a>
+### 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -91,7 +88,7 @@ ruby morse_code_decoder.rb
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 👥 Authors <a name="authors"></a>
+###👥 Authors <a name="authors"></a>
 
 👤 **IRADUKUNDA Pacific Rugwizangoga**
 
@@ -107,7 +104,7 @@ ruby morse_code_decoder.rb
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🔭 Future Features <a name="future-features"></a>
+### 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add UI to the project]**
 
